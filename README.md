@@ -1,9 +1,15 @@
 # Automatic-Motion-Activated-Security-using-PIR-Sensor
+
+## NAME: SUNDARRAJAN K
+## REG NO:212223060279
+## SLOT: 4X4-5
+
 ## AIM:
 
 To detect motion using a PIR sensor connected to an Arduino and trigger an LED (using the built-in LED) when motion is sensed.
              
 ## Hardware / Software Tools required:
+
 1.	Arduino Uno R3 – 1 No
 2.	PIR Sensor – 1 No
 3.	LED (in-built on Arduino pin 13) – 1 No
@@ -101,7 +107,8 @@ void loop(){
 
 # Output:
 
-https://github.com/user-attachments/assets/b4bacea7-5c40-4349-b48b-1aca6448c350
+<img width="1915" height="751" alt="Screenshot 2025-11-16 182456" src="https://github.com/user-attachments/assets/6168782a-526a-4cbf-ac9f-e3ce6d1c449d" />
+
 
 
 
